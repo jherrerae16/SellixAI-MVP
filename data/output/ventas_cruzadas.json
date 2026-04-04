@@ -1,0 +1,890 @@
+[
+  {
+    "producto_base": "DEXALYL 0.75 MG 20 TABLETAS",
+    "producto_recomendado": "PERIACTIN 20 TABLETAS",
+    "veces_juntos": 5,
+    "lift": 1411.14,
+    "confianza": 0.71,
+    "incremento_ticket_estimado": 3281
+  },
+  {
+    "producto_base": "RELACION DE MEDICAMENTOS GRAVADOS UPL.",
+    "producto_recomendado": "RELACION DE MEDICAMENTOS UPL",
+    "veces_juntos": 11,
+    "lift": 759.85,
+    "confianza": 1,
+    "incremento_ticket_estimado": 2120931
+  },
+  {
+    "producto_base": "ALGODON LAMINADO VENDAMOS 5X5",
+    "producto_recomendado": "VENDA ELASTICA SUPREME 6X5",
+    "veces_juntos": 5,
+    "lift": 685.97,
+    "confianza": 0.63,
+    "incremento_ticket_estimado": 5500
+  },
+  {
+    "producto_base": "AGUA OXIGENADA 120 ML ICOM",
+    "producto_recomendado": "ILOTICINA PLUS SOLUCION 50 ML",
+    "veces_juntos": 5,
+    "lift": 322.81,
+    "confianza": 0.29,
+    "incremento_ticket_estimado": 95000
+  },
+  {
+    "producto_base": "AMITRIPTILINA 25 MG 30 TABLETAS MK",
+    "producto_recomendado": "LAXIUM 5 MG 100 TABLETAS",
+    "veces_juntos": 7,
+    "lift": 295.5,
+    "confianza": 0.39,
+    "incremento_ticket_estimado": 550
+  },
+  {
+    "producto_base": "CLINDAMICINA SOLUCION 1% 30 ML W",
+    "producto_recomendado": "ILOTICINA PLUS SOLUCION 50 ML",
+    "veces_juntos": 8,
+    "lift": 292.68,
+    "confianza": 0.27,
+    "incremento_ticket_estimado": 95000
+  },
+  {
+    "producto_base": "CATETER ALFA INTRAVE 22G X1 25 MM",
+    "producto_recomendado": "EQUIPO VENOCLISIS SUPREME MACROGOTEO 10G",
+    "veces_juntos": 8,
+    "lift": 258.25,
+    "confianza": 0.89,
+    "incremento_ticket_estimado": 3500
+  },
+  {
+    "producto_base": "EQUIPO VENOCLISIS SUPREME MACROGOTEO 10G",
+    "producto_recomendado": "SUERO VENOVIT 5% A/D 500 ML BOLSA",
+    "veces_juntos": 7,
+    "lift": 254.21,
+    "confianza": 0.21,
+    "incremento_ticket_estimado": 27000
+  },
+  {
+    "producto_base": "AGUA OXIGENADA 120 ML ICOM",
+    "producto_recomendado": "FUCIDIN H CREMA TBO 15 GR (M)",
+    "veces_juntos": 7,
+    "lift": 254.21,
+    "confianza": 0.41,
+    "incremento_ticket_estimado": 144375
+  },
+  {
+    "producto_base": "ERITROPROYECTINA  2000 UI",
+    "producto_recomendado": "JERINGA ALFA INS.1 ML 27GX1/2 100 UDS",
+    "veces_juntos": 14,
+    "lift": 247.84,
+    "confianza": 0.78,
+    "incremento_ticket_estimado": 588
+  },
+  {
+    "producto_base": "AGUA OXIGENADA 120 ML ICOM",
+    "producto_recomendado": "CLINDAMICINA SOLUCION 1% 30 ML W",
+    "veces_juntos": 12,
+    "lift": 232.42,
+    "confianza": 0.71,
+    "incremento_ticket_estimado": 35000
+  },
+  {
+    "producto_base": "CLINDAMICINA SOLUCION 1% 30 ML W",
+    "producto_recomendado": "FUCIDIN H CREMA TBO 15 GR (M)",
+    "veces_juntos": 11,
+    "lift": 226.37,
+    "confianza": 0.37,
+    "incremento_ticket_estimado": 144375
+  },
+  {
+    "producto_base": "CATETER ALFA INTRAVE 20G X1 1/4 32 MM",
+    "producto_recomendado": "EQUIPO VENOCLISIS SUPREME MACROGOTEO 10G",
+    "veces_juntos": 5,
+    "lift": 207.52,
+    "confianza": 0.71,
+    "incremento_ticket_estimado": 3500
+  },
+  {
+    "producto_base": "PAN.TENA PANTS CLASICO LARGE 8 UDS",
+    "producto_recomendado": "PEDIALYTE MAX CON ZINC 60 COCO 500 ML",
+    "veces_juntos": 5,
+    "lift": 172.69,
+    "confianza": 0.45,
+    "incremento_ticket_estimado": 9718
+  },
+  {
+    "producto_base": "BLADURIL 200 MG 10 TABLETAS",
+    "producto_recomendado": "MONURIL SOBRE ADULTOS 3 GR (M)",
+    "veces_juntos": 6,
+    "lift": 168.38,
+    "confianza": 0.38,
+    "incremento_ticket_estimado": 20282
+  },
+  {
+    "producto_base": "NORAVER GRIPA BEBIDA DIA 15 GR 24 SBS",
+    "producto_recomendado": "NORAVER GRIPA BEBIDA NOCHE 15 GR 24 SBS",
+    "veces_juntos": 12,
+    "lift": 148.54,
+    "confianza": 0.57,
+    "incremento_ticket_estimado": 2900
+  },
+  {
+    "producto_base": "PAX CALIENTE NOCHE PANELA 24 SBS",
+    "producto_recomendado": "PAX DIA NARANJA 24 SBS",
+    "veces_juntos": 18,
+    "lift": 144.32,
+    "confianza": 0.41,
+    "incremento_ticket_estimado": 2627
+  },
+  {
+    "producto_base": "HIDRAPLUS 75 ZINC CEREZA 400 ML SUERO O",
+    "producto_recomendado": "HIDRAPLUS 75 ZINC UVA 400 ML SUERO O",
+    "veces_juntos": 8,
+    "lift": 137.19,
+    "confianza": 0.33,
+    "incremento_ticket_estimado": 10900
+  },
+  {
+    "producto_base": "CATETER CANULA INTRAVENOSA 24G UND ICOM",
+    "producto_recomendado": "EQUIPO VENOCLISIS SUPREME MACROGOTEO 10G",
+    "veces_juntos": 7,
+    "lift": 127.11,
+    "confianza": 0.44,
+    "incremento_ticket_estimado": 3500
+  },
+  {
+    "producto_base": "GASTROFAST ADVANCE 12 SACHETS X 10 ML",
+    "producto_recomendado": "LAXIUM 5 MG 100 TABLETAS",
+    "veces_juntos": 11,
+    "lift": 93.91,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 550
+  },
+  {
+    "producto_base": "BETADUO VIAL 2 ML 12 UDS (A)",
+    "producto_recomendado": "TOFEDOL ETOFENAMATO 1 GR 2ML AMP HP",
+    "veces_juntos": 23,
+    "lift": 92.17,
+    "confianza": 0.27,
+    "incremento_ticket_estimado": 25517
+  },
+  {
+    "producto_base": "AMITRIPTILINA 25 MG 30 TABLETAS MK",
+    "producto_recomendado": "GASTROFAST ADVANCE 12 SACHETS X 10 ML",
+    "veces_juntos": 12,
+    "lift": 73.99,
+    "confianza": 0.67,
+    "incremento_ticket_estimado": 5598
+  },
+  {
+    "producto_base": "TOA.NOSOTRAS NORMAL NATURAL 10 UDS",
+    "producto_recomendado": "VICK VAPORUB 12 GR 12 UDS",
+    "veces_juntos": 5,
+    "lift": 67.84,
+    "confianza": 0.63,
+    "incremento_ticket_estimado": 6229
+  },
+  {
+    "producto_base": "DEXAMETASONA 8MG (FARMIONI)",
+    "producto_recomendado": "DICLOFENACO 75 MG  CAJA X 10 AMP FARMIONI",
+    "veces_juntos": 9,
+    "lift": 66.74,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 1900
+  },
+  {
+    "producto_base": "FLUIMUCIL 600 MES 30 SBS",
+    "producto_recomendado": "GUAYACOLATO DE GLICERILO 120 ML LC",
+    "veces_juntos": 8,
+    "lift": 56.45,
+    "confianza": 0.14,
+    "incremento_ticket_estimado": 5500
+  },
+  {
+    "producto_base": "DEXAMETASONA 4MG/1ML 100 AMPOLLAS VT",
+    "producto_recomendado": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+    "veces_juntos": 6,
+    "lift": 52.82,
+    "confianza": 0.35,
+    "incremento_ticket_estimado": 2000
+  },
+  {
+    "producto_base": "JERINGA 5 ML 21GX1 1/2 100 UND AMALGADE.",
+    "producto_recomendado": "NEUROBION 3 AMPOLLAS",
+    "veces_juntos": 5,
+    "lift": 51.45,
+    "confianza": 0.1,
+    "incremento_ticket_estimado": 32000
+  },
+  {
+    "producto_base": "AMITRIPTILINA 25 MG 30 TABLETAS RC",
+    "producto_recomendado": "LOPERAMIDA 2 MG 240 TABLETAS EC",
+    "veces_juntos": 5,
+    "lift": 51.13,
+    "confianza": 0.22,
+    "incremento_ticket_estimado": 900
+  },
+  {
+    "producto_base": "ENSURE ADVANCE LIQ.VAINILLA 237 ML 8 OZ",
+    "producto_recomendado": "GLUCERNA LIQ.VAINILLA BOTELLA 237 ML",
+    "veces_juntos": 10,
+    "lift": 49.66,
+    "confianza": 0.09,
+    "incremento_ticket_estimado": 9000
+  },
+  {
+    "producto_base": "DEXAMETASONA 8MG (FARMIONI)",
+    "producto_recomendado": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+    "veces_juntos": 24,
+    "lift": 48.54,
+    "confianza": 0.32,
+    "incremento_ticket_estimado": 2000
+  },
+  {
+    "producto_base": "AMITRIPTILINA 25 MG 30 TABLETAS MK",
+    "producto_recomendado": "IBUPROFENO 800 MG 50 TABLETAS AG",
+    "veces_juntos": 5,
+    "lift": 47.31,
+    "confianza": 0.28,
+    "incremento_ticket_estimado": 486
+  },
+  {
+    "producto_base": "JERINGA 10 ML 21GX1 1/2 100 UND AMALGAD.",
+    "producto_recomendado": "SUERO FISIOLOGICO CLOR.SODIO 500 ML 1323",
+    "veces_juntos": 5,
+    "lift": 46.33,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 4500
+  },
+  {
+    "producto_base": "CYCLOFEM 1 AMPOLLA",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+    "veces_juntos": 9,
+    "lift": 45.54,
+    "confianza": 0.56,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "ERITROPROYECTINA  2000 UI",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 12,
+    "lift": 45.11,
+    "confianza": 0.67,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "ESP.MICROPORE PIEL 24X3 BOLSA",
+    "producto_recomendado": "GASA ICOM EST.NO TEJ.3X3YD 12SBS 2UDS (T",
+    "veces_juntos": 12,
+    "lift": 44.9,
+    "confianza": 0.18,
+    "incremento_ticket_estimado": 9500
+  },
+  {
+    "producto_base": "JERINGA 10 ML 21GX1 1/2 100 UND AMALGAD.",
+    "producto_recomendado": "SUERO FISIOLOGICO 500ML ICOM",
+    "veces_juntos": 5,
+    "lift": 40.15,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 4500
+  },
+  {
+    "producto_base": "ESP.MICROPORE PIEL 24X3 BOLSA",
+    "producto_recomendado": "GASA FAST CARE EST.NOTEJ. 3X3 12SBS ICOM",
+    "veces_juntos": 8,
+    "lift": 39.91,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 9500
+  },
+  {
+    "producto_base": "ENZYMED 100 GRAGEAS",
+    "producto_recomendado": "TRIMEBUTINA 200 MG 300 TABLETAS LP",
+    "veces_juntos": 11,
+    "lift": 39.18,
+    "confianza": 0.19,
+    "incremento_ticket_estimado": 600
+  },
+  {
+    "producto_base": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "producto_recomendado": "JERINGA ALFA INS.1 ML 27GX1/2 100 UDS",
+    "veces_juntos": 17,
+    "lift": 37.1,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 588
+  },
+  {
+    "producto_base": "JERINGA 3P 5ML 21X1.1/2 FA 100UN ICOM",
+    "producto_recomendado": "NEUROBION 3 AMPOLLAS",
+    "veces_juntos": 5,
+    "lift": 36.86,
+    "confianza": 0.07,
+    "incremento_ticket_estimado": 32000
+  },
+  {
+    "producto_base": "DICLOFENACO 75 MG  CAJA X 10 AMP FARMIONI",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 9,
+    "lift": 33.83,
+    "confianza": 0.5,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "DIHIDROCODEINA JARABE 120 ML HP",
+    "producto_recomendado": "ENSURE ADVANCE LIQ.VAINILLA 237 ML 8 OZ",
+    "veces_juntos": 11,
+    "lift": 33.17,
+    "confianza": 0.39,
+    "incremento_ticket_estimado": 9746
+  },
+  {
+    "producto_base": "BETADUO 2 ML INYECTABLE 12 UNDS(A)(3%+)",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+    "veces_juntos": 7,
+    "lift": 31.49,
+    "confianza": 0.39,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "EQUIPO VENOCLISIS SUPREME MACROGOTEO 10G",
+    "producto_recomendado": "ESP.MICROPORE PIEL 24X3 BOLSA",
+    "veces_juntos": 7,
+    "lift": 30.81,
+    "confianza": 0.21,
+    "incremento_ticket_estimado": 6800
+  },
+  {
+    "producto_base": "ENTEROGERMINA 5 ML 10 AMPOLLAS BEBIBLES",
+    "producto_recomendado": "SMECTA 3 GR 10 SBS (M)",
+    "veces_juntos": 9,
+    "lift": 30.53,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 9114
+  },
+  {
+    "producto_base": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+    "producto_recomendado": "VOLTAREN 75 MG 5 AMPOLLAS",
+    "veces_juntos": 9,
+    "lift": 30.36,
+    "confianza": 0.07,
+    "incremento_ticket_estimado": 15000
+  },
+  {
+    "producto_base": "CONGESTEX 60 CAPSULAS",
+    "producto_recomendado": "PAX DIA NARANJA 24 SBS",
+    "veces_juntos": 5,
+    "lift": 29.9,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 2627
+  },
+  {
+    "producto_base": "AZITROMICINA 500 MG 3 TABLETAS IC (T)",
+    "producto_recomendado": "LEGRIP PLUS 100 CAPSULAS BLANDAS ICOM",
+    "veces_juntos": 10,
+    "lift": 29.16,
+    "confianza": 0.13,
+    "incremento_ticket_estimado": 1538
+  },
+  {
+    "producto_base": "DEXAMETASONA 4MG/1ML 100 AMPOLLAS VT",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+    "veces_juntos": 6,
+    "lift": 28.58,
+    "confianza": 0.35,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "METFORMINA 850 MG X 15 TAB GF * * *",
+    "producto_recomendado": "VICK VAPORUB 12 GR 12 UDS",
+    "veces_juntos": 6,
+    "lift": 28.32,
+    "confianza": 0.26,
+    "incremento_ticket_estimado": 6229
+  },
+  {
+    "producto_base": "DEXAMETASONA 8MG (FARMIONI)",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100UN ICOM",
+    "veces_juntos": 14,
+    "lift": 27.89,
+    "confianza": 0.19,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "DEXAMETASONA 8MG (FARMIONI)",
+    "producto_recomendado": "VOLTAREN 75 MG 5 AMPOLLAS",
+    "veces_juntos": 5,
+    "lift": 27.81,
+    "confianza": 0.07,
+    "incremento_ticket_estimado": 15000
+  },
+  {
+    "producto_base": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+    "veces_juntos": 22,
+    "lift": 26.99,
+    "confianza": 0.33,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100UN ICOM",
+    "veces_juntos": 12,
+    "lift": 26.81,
+    "confianza": 0.18,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "CONGESTEX 60 CAPSULAS",
+    "producto_recomendado": "PAX CALIENTE NOCHE PANELA 24 SBS",
+    "veces_juntos": 7,
+    "lift": 26.64,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 2822
+  },
+  {
+    "producto_base": "LOSARTAN 50 MG 30 TABLETAS EX",
+    "producto_recomendado": "METOPROLOL 50 MG 30 TABLETAS GF",
+    "veces_juntos": 7,
+    "lift": 26.27,
+    "confianza": 0.07,
+    "incremento_ticket_estimado": 14000
+  },
+  {
+    "producto_base": "ENZYMED 100 GRAGEAS",
+    "producto_recomendado": "STREPSILS INTENSIVE 8.75MG 16 TBS",
+    "veces_juntos": 5,
+    "lift": 25.37,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 3723
+  },
+  {
+    "producto_base": "SILDENAFILO 50 MG 50 TABLETAS LP",
+    "producto_recomendado": "VITAFER-L 20 MILILITROS 24 UND",
+    "veces_juntos": 10,
+    "lift": 24.41,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 3575
+  },
+  {
+    "producto_base": "GENTAMICINA 160MG (FARMIONI)",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 5,
+    "lift": 24.16,
+    "confianza": 0.36,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "DEXAMETASONA 8MG (FARMIONI)",
+    "producto_recomendado": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+    "veces_juntos": 22,
+    "lift": 24.07,
+    "confianza": 0.3,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "ENSURE ADVANCE LIQ.VAINILLA 237 ML 8 OZ",
+    "producto_recomendado": "TRACTAL GOTAS 20 ML(A)(P)9021(SC)",
+    "veces_juntos": 5,
+    "lift": 23.45,
+    "confianza": 0.04,
+    "incremento_ticket_estimado": 30955
+  },
+  {
+    "producto_base": "DEXAMETASONA 8MG (FARMIONI)",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 25,
+    "lift": 22.86,
+    "confianza": 0.34,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+    "producto_recomendado": "JERINGA 5 ML 21GX1 1/2 100 UND AMALGADE.",
+    "veces_juntos": 7,
+    "lift": 21.83,
+    "confianza": 0.11,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "producto_recomendado": "NEUROBION 3 AMPOLLAS",
+    "veces_juntos": 6,
+    "lift": 20.3,
+    "confianza": 0.04,
+    "incremento_ticket_estimado": 32000
+  },
+  {
+    "producto_base": "DEXAMETASONA 4MG/1ML 100 AMPOLLAS VT",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 5,
+    "lift": 19.9,
+    "confianza": 0.29,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "producto_recomendado": "VOLTAREN 75 MG 5 AMPOLLAS",
+    "veces_juntos": 7,
+    "lift": 19.73,
+    "confianza": 0.05,
+    "incremento_ticket_estimado": 15000
+  },
+  {
+    "producto_base": "FISIOMAX LUBRICANTE INTIMO 30 SBS",
+    "producto_recomendado": "SILDENAFILO 50 MG 50 TABLETAS LP",
+    "veces_juntos": 6,
+    "lift": 19.16,
+    "confianza": 0.23,
+    "incremento_ticket_estimado": 1422
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "ALCOHOL ANTISEP. ALCOPY 700 ML UND",
+    "veces_juntos": 5,
+    "lift": 17.96,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 9600
+  },
+  {
+    "producto_base": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 17,
+    "lift": 17.43,
+    "confianza": 0.26,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "DOLEX GRIPA 100 TABLETAS",
+    "producto_recomendado": "PAX CALIENTE NOCHE PANELA 24 SBS",
+    "veces_juntos": 9,
+    "lift": 16.7,
+    "confianza": 0.07,
+    "incremento_ticket_estimado": 2822
+  },
+  {
+    "producto_base": "LOSARTAN 50 MG 30 TABLETAS EX",
+    "producto_recomendado": "NEOSALDINA 100 GRAGEAS (A)",
+    "veces_juntos": 5,
+    "lift": 13.83,
+    "confianza": 0.05,
+    "incremento_ticket_estimado": 1650
+  },
+  {
+    "producto_base": "GASTROFAST ADVANCE 12 SACHETS X 10 ML",
+    "producto_recomendado": "IBUPROFENO 800 MG 50 TABLETAS AG",
+    "veces_juntos": 7,
+    "lift": 13.4,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 486
+  },
+  {
+    "producto_base": "DOLEX GRIPA 100 TABLETAS",
+    "producto_recomendado": "NORAVER GRIPA BEBIDA NOCHE 15 GR 24 SBS",
+    "veces_juntos": 6,
+    "lift": 12.89,
+    "confianza": 0.05,
+    "incremento_ticket_estimado": 2900
+  },
+  {
+    "producto_base": "BUSCAPINA NF COMPOSITUM 325/10MG 100 TBS",
+    "producto_recomendado": "DOLEX FORTE 500 MG 100 TBS",
+    "veces_juntos": 5,
+    "lift": 12.11,
+    "confianza": 0.1,
+    "incremento_ticket_estimado": 1950
+  },
+  {
+    "producto_base": "CEFALEXINA 500 MG 250 CAPSULAS  RC",
+    "producto_recomendado": "NAPROXENO 500 MG 300 TABLETAS LP (T)",
+    "veces_juntos": 5,
+    "lift": 11.93,
+    "confianza": 0.11,
+    "incremento_ticket_estimado": 650
+  },
+  {
+    "producto_base": "ELECTROLIT HIDRATANTE MARACUYA 625 ML.",
+    "producto_recomendado": "ENTEROGERMINA 5 ML 10 AMPOLLAS BEBIBLES",
+    "veces_juntos": 6,
+    "lift": 11.26,
+    "confianza": 0.13,
+    "incremento_ticket_estimado": 8676
+  },
+  {
+    "producto_base": "CLORFENIRAMINA JARABE 120 ML LB",
+    "producto_recomendado": "VICK VAPORUB 12 GR 12 UDS",
+    "veces_juntos": 7,
+    "lift": 10.85,
+    "confianza": 0.1,
+    "incremento_ticket_estimado": 6229
+  },
+  {
+    "producto_base": "CLORFENIRAMINA JARABE 120 ML LB",
+    "producto_recomendado": "MIELTERTOS PASTILLAS MASTICABLES 12 SBS",
+    "veces_juntos": 8,
+    "lift": 10.45,
+    "confianza": 0.11,
+    "incremento_ticket_estimado": 2646
+  },
+  {
+    "producto_base": "OMEPRAZOL 20 MG 300 CAPSULAS",
+    "producto_recomendado": "VICK VAPORUB 12 GR 12 UDS",
+    "veces_juntos": 6,
+    "lift": 9.44,
+    "confianza": 0.09,
+    "incremento_ticket_estimado": 6229
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TABLETAS AG",
+    "producto_recomendado": "NAPROXENO 500 MG 300 TABLETAS LP (T)",
+    "veces_juntos": 6,
+    "lift": 9.34,
+    "confianza": 0.09,
+    "incremento_ticket_estimado": 650
+  },
+  {
+    "producto_base": "DOLEX GRIPA 100 TABLETAS",
+    "producto_recomendado": "FLUIMUCIL 600 MES 30 SBS",
+    "veces_juntos": 6,
+    "lift": 8.75,
+    "confianza": 0.05,
+    "incremento_ticket_estimado": 3047
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "DIHIDROCODEINA JARABE 120 ML HP",
+    "veces_juntos": 6,
+    "lift": 8.47,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 14667
+  },
+  {
+    "producto_base": "DOLEX FORTE 500 MG 100 TBS",
+    "producto_recomendado": "VICK VAPORUB 12 GR 12 UDS",
+    "veces_juntos": 6,
+    "lift": 8.14,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 6229
+  },
+  {
+    "producto_base": "BETADUO VIAL 2 ML 12 UDS (A)",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 10,
+    "lift": 7.96,
+    "confianza": 0.12,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "CONGESTEX 60 CAPSULAS",
+    "producto_recomendado": "MIELTERTOS PASTILLAS MASTICABLES 12 SBS",
+    "veces_juntos": 5,
+    "lift": 7.75,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 2646
+  },
+  {
+    "producto_base": "AZITROMICINA 500 MG 3 TABLETAS IC (T)",
+    "producto_recomendado": "MIELTERTOS PASTILLAS MASTICABLES 12 SBS",
+    "veces_juntos": 6,
+    "lift": 7.13,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 2646
+  },
+  {
+    "producto_base": "ENZYMED 100 GRAGEAS",
+    "producto_recomendado": "SILDENAFILO 50 MG 50 TABLETAS LP",
+    "veces_juntos": 5,
+    "lift": 7.03,
+    "confianza": 0.08,
+    "incremento_ticket_estimado": 1422
+  },
+  {
+    "producto_base": "DOLEX FORTE 500 MG 100 TBS",
+    "producto_recomendado": "DOLEX RAPIDA ACCION AVANZ 500 MG 200 TBS",
+    "veces_juntos": 10,
+    "lift": 6.86,
+    "confianza": 0.13,
+    "incremento_ticket_estimado": 850
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "CETIRIZINA 10 MG 400 TABLETAS LP",
+    "veces_juntos": 5,
+    "lift": 6.81,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 450
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "CLORFENIRAMINA JARABE X 120ML (MEMPHIS)",
+    "veces_juntos": 5,
+    "lift": 6.81,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 5500
+  },
+  {
+    "producto_base": "AZITROMICINA 500 MG 3 TABLETAS IC (T)",
+    "producto_recomendado": "BOLSA PLASTICA",
+    "veces_juntos": 8,
+    "lift": 6.34,
+    "confianza": 0.1,
+    "incremento_ticket_estimado": 100
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "LOPERAMIDA 2 MG 240 TABLETAS EC",
+    "veces_juntos": 6,
+    "lift": 5.64,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 900
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TABLETAS AG",
+    "producto_recomendado": "BOLSA PLASTICA",
+    "veces_juntos": 6,
+    "lift": 5.3,
+    "confianza": 0.09,
+    "incremento_ticket_estimado": 100
+  },
+  {
+    "producto_base": "AZITROMICINA 500 MG 3 TABLETAS IC (T)",
+    "producto_recomendado": "DOLEX GRIPA 100 TABLETAS",
+    "veces_juntos": 5,
+    "lift": 5.3,
+    "confianza": 0.06,
+    "incremento_ticket_estimado": 1395
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "NORAVER GRIPA BEBIDA NOCHE 15 GR 24 SBS",
+    "veces_juntos": 5,
+    "lift": 5.2,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 2900
+  },
+  {
+    "producto_base": "DOLEX FORTE 500 MG 100 TBS",
+    "producto_recomendado": "DOLEX GRIPA 100 TABLETAS",
+    "veces_juntos": 5,
+    "lift": 5.1,
+    "confianza": 0.06,
+    "incremento_ticket_estimado": 1395
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "CARAMELO DUROS MASTICABLES 12 SBS.",
+    "veces_juntos": 5,
+    "lift": 4.82,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 2000
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "METOCARBAMOL 750 MG 300 TABLETAS LP",
+    "veces_juntos": 5,
+    "lift": 4.82,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 600
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "LEGRIP PLUS 100 CAPSULAS BLANDAS ICOM",
+    "veces_juntos": 5,
+    "lift": 4.49,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 1538
+  },
+  {
+    "producto_base": "BOLSA PLASTICA",
+    "producto_recomendado": "CLORFENIRAMINA JARABE 120 ML LB",
+    "veces_juntos": 5,
+    "lift": 4.36,
+    "confianza": 0.03,
+    "incremento_ticket_estimado": 5453
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "VICK VAPORUB 12 GR 12 UND",
+    "veces_juntos": 5,
+    "lift": 4.03,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 5624
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "CLORFENIRAMINA JARABE 120 ML LB",
+    "veces_juntos": 7,
+    "lift": 3.95,
+    "confianza": 0.03,
+    "incremento_ticket_estimado": 5453
+  },
+  {
+    "producto_base": "BETADUO VIAL 2 ML 12 UDS (A)",
+    "producto_recomendado": "BOLSA PLASTICA",
+    "veces_juntos": 5,
+    "lift": 3.59,
+    "confianza": 0.06,
+    "incremento_ticket_estimado": 100
+  },
+  {
+    "producto_base": "BOLSA PLASTICA",
+    "producto_recomendado": "MIELTERTOS PASTILLAS MASTICABLES 12 SBS",
+    "veces_juntos": 6,
+    "lift": 3.39,
+    "confianza": 0.04,
+    "incremento_ticket_estimado": 2646
+  },
+  {
+    "producto_base": "DOLEX GRIPA 100 TABLETAS",
+    "producto_recomendado": "DOLEX RAPIDA ACCION AVANZ 500 MG 200 TBS",
+    "veces_juntos": 7,
+    "lift": 3.17,
+    "confianza": 0.06,
+    "incremento_ticket_estimado": 850
+  },
+  {
+    "producto_base": "BOLSA PLASTICA",
+    "producto_recomendado": "JERINGA 3P 5 ML 21X1.1/2 100 UDS ETERNA",
+    "veces_juntos": 7,
+    "lift": 2.92,
+    "confianza": 0.04,
+    "incremento_ticket_estimado": 420
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "OMEPRAZOL 20 MG 300 CAPSULAS",
+    "veces_juntos": 5,
+    "lift": 2.86,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 350
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "ENSURE ADVANCE LIQ.VAINILLA 237 ML 8 OZ",
+    "veces_juntos": 8,
+    "lift": 2.7,
+    "confianza": 0.03,
+    "incremento_ticket_estimado": 9746
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "AZITROMICINA 500 MG 3 TABLETAS IC (T)",
+    "veces_juntos": 5,
+    "lift": 2.57,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 12979
+  },
+  {
+    "producto_base": "BOLSA PLASTICA",
+    "producto_recomendado": "DOLEX GRIPA 100 TABLETAS",
+    "veces_juntos": 5,
+    "lift": 2.52,
+    "confianza": 0.03,
+    "incremento_ticket_estimado": 1395
+  },
+  {
+    "producto_base": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+    "producto_recomendado": "DOLEX GRIPA 100 TABLETAS",
+    "veces_juntos": 6,
+    "lift": 1.96,
+    "confianza": 0.02,
+    "incremento_ticket_estimado": 1395
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "RELACION DE MEDICAMENTOS UPL",
+    "codigo": "UPL062024",
+    "unidades": 13,
+    "ingresos": 27572100
+  },
+  {
+    "nombre": "RELACION DE MEDICAMENTOS GRAVADOS UPL.",
+    "codigo": "UPL19%",
+    "unidades": 11,
+    "ingresos": 5546933
+  },
+  {
+    "nombre": "BETADUO VIAL 2 ML 12 UDS (A)",
+    "codigo": "100018408",
+    "unidades": 148,
+    "ingresos": 5489000
+  },
+  {
+    "nombre": "ENSURE ADVANCE LIQ.VAINILLA 237 ML 8 OZ",
+    "codigo": "100022232",
+    "unidades": 497,
+    "ingresos": 4843700
+  },
+  {
+    "nombre": "FLEX RAY X 60 TABLETAS",
+    "codigo": "012598",
+    "unidades": 46,
+    "ingresos": 3470000
+  },
+  {
+    "nombre": "SINALGEN MAX 10/325 MG 30 TBS(3%+)(PAE)",
+    "codigo": "100025135",
+    "unidades": 651,
+    "ingresos": 2740000
+  },
+  {
+    "nombre": "OZEMPIC 0.25/0.5MG D.(R)(E)(P)277313(SC)",
+    "codigo": "100026865",
+    "unidades": 7,
+    "ingresos": 2735000
+  },
+  {
+    "nombre": "PROZAC 20 MG 28 CAPSULAS",
+    "codigo": "10000147712555",
+    "unidades": 6,
+    "ingresos": 2620000
+  },
+  {
+    "nombre": "COLAGENO MARINO HIDROLIZADO X 1000GR (EDERVIT)",
+    "codigo": "7708570044891",
+    "unidades": 31,
+    "ingresos": 2385000
+  },
+  {
+    "nombre": "SAXENDA 6 MG 1P(R)(P)152097(SC)(SF)(SAV)",
+    "codigo": "100026173",
+    "unidades": 17,
+    "ingresos": 2315000
+  }
+]
