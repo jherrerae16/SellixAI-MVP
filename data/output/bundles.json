@@ -1,0 +1,353 @@
+[
+  {
+    "productos": [
+      {
+        "codigo": "100005346",
+        "nombre": "FUCIDIN H CREMA TBO 15 GR (M)",
+        "categoria": "Corticosteroides y antibióticos tópicos",
+        "tratamiento": "Infecciones e inflamaciones cutáneas",
+        "precio_unidad": 144375,
+        "precio_caja": 144375
+      },
+      {
+        "codigo": "100012822",
+        "nombre": "CLINDAMICINA SOLUCION 1% 30 ML W",
+        "categoria": "Antibióticos tópicos",
+        "tratamiento": "Acné, Infecciones bacterianas cutáneas",
+        "precio_unidad": 35000,
+        "precio_caja": 35000
+      },
+      {
+        "codigo": "100014452",
+        "nombre": "AGUA OXIGENADA 120 ML ICOM",
+        "categoria": "Antiséptico, Desinfectante",
+        "tratamiento": "Limpieza de heridas, desinfección",
+        "precio_unidad": 5210,
+        "precio_caja": 5210
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 5,
+    "ticket_promedio": 187500,
+    "ticket_suma": 937500,
+    "categorias_involucradas": [
+      "Corticosteroides y antibióticos tópicos",
+      "Antibióticos tópicos",
+      "Antiséptico, Desinfectante"
+    ],
+    "tratamientos_involucrados": [
+      "Infecciones e inflamaciones cutáneas",
+      "Acné, Infecciones bacterianas cutáneas",
+      "Limpieza de heridas, desinfección"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "100012158",
+        "nombre": "TRACTAL GOTAS 20 ML(A)(P)10463(SC)",
+        "categoria": "Antiflatulento",
+        "tratamiento": "Cólicos y gases",
+        "precio_unidad": 30097,
+        "precio_caja": 29154
+      },
+      {
+        "codigo": "100022232",
+        "nombre": "ENSURE ADVANCE LIQ.VAINILLA 237 ML 8 OZ",
+        "categoria": "Suplemento nutricional",
+        "tratamiento": "Soporte nutricional, Malnutrición",
+        "precio_unidad": 9746,
+        "precio_caja": 9704
+      },
+      {
+        "codigo": "200038795",
+        "nombre": "CRE.DEN.SENSODYNE RAP.ALIV.BLANQ. 100 GR",
+        "categoria": "Cuidado oral",
+        "tratamiento": "Sensibilidad dental, Higiene oral",
+        "precio_unidad": 26891,
+        "precio_caja": 32000
+      },
+      {
+        "codigo": "200046048",
+        "nombre": "JABON ANTIBACTERIAL NEKO ALOE 110GRS",
+        "categoria": "Higiene personal",
+        "tratamiento": "Limpieza y protección antibacterial de la piel",
+        "precio_unidad": 5798,
+        "precio_caja": 6900
+      },
+      {
+        "codigo": "200046052",
+        "nombre": "JABON ANTIBA NEKO EXTRA PROTECCION 110GR",
+        "categoria": "Higiene personal",
+        "tratamiento": "Limpieza y protección antibacterial de la piel",
+        "precio_unidad": 5798,
+        "precio_caja": 6900
+      }
+    ],
+    "tamano": 5,
+    "apariciones": 3,
+    "ticket_promedio": 184181,
+    "ticket_suma": 552542,
+    "categorias_involucradas": [
+      "Antiflatulento",
+      "Suplemento nutricional",
+      "Cuidado oral",
+      "Higiene personal"
+    ],
+    "tratamientos_involucrados": [
+      "Cólicos y gases",
+      "Soporte nutricional, Malnutrición",
+      "Sensibilidad dental, Higiene oral",
+      "Limpieza y protección antibacterial de la piel"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "100003885",
+        "nombre": "DICLOXACILINA 500 MG 50 CAPSULAS AG",
+        "categoria": "Antibióticos",
+        "tratamiento": "Infecciones bacterianas",
+        "precio_unidad": 750,
+        "precio_caja": 35000
+      },
+      {
+        "codigo": "100018470",
+        "nombre": "NAPROXENO 500 MG 300 TABLETAS LP",
+        "categoria": "Antiinflamatorios no esteroideos (AINE)",
+        "tratamiento": "Dolor, Inflamación, Fiebre",
+        "precio_unidad": 650,
+        "precio_caja": 180000
+      },
+      {
+        "codigo": "100019681",
+        "nombre": "ANTAX SUSPENSION 170 ML MR",
+        "categoria": "Antiácidos / Inhibidores de la secreción ácida",
+        "tratamiento": "Acidez, indigestión, reflujo gastroesofágico",
+        "precio_unidad": 24000,
+        "precio_caja": 24000
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 3,
+    "ticket_promedio": 38000,
+    "ticket_suma": 114000,
+    "categorias_involucradas": [
+      "Antibióticos",
+      "Antiinflamatorios no esteroideos (AINE)",
+      "Antiácidos / Inhibidores de la secreción ácida"
+    ],
+    "tratamientos_involucrados": [
+      "Infecciones bacterianas",
+      "Dolor, Inflamación, Fiebre",
+      "Acidez, indigestión, reflujo gastroesofágico"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "200012098",
+        "nombre": "JERINGA 3P 5 ML 21X1.1/2 100 UND ETERNA",
+        "categoria": "Dispositivo médico",
+        "tratamiento": "Administración de medicamentos, Extracción de fluidos",
+        "precio_unidad": 500,
+        "precio_caja": 50000
+      },
+      {
+        "codigo": "200025151",
+        "nombre": "JERINGA ALFA INS.1 ML 27GX1/2(13MM)100UN",
+        "categoria": "Dispositivo médico",
+        "tratamiento": "Administración de insulina",
+        "precio_unidad": 700,
+        "precio_caja": 50000
+      },
+      {
+        "codigo": "717020544650456",
+        "nombre": "ERITROPROYECTINA  2000 UI",
+        "categoria": "Agentes antianémicos",
+        "tratamiento": "Anemia asociada a enfermedad renal crónica",
+        "precio_unidad": 13000,
+        "precio_caja": 13000
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 5,
+    "ticket_promedio": 14345,
+    "ticket_suma": 71723,
+    "categorias_involucradas": [
+      "Dispositivo médico",
+      "Agentes antianémicos"
+    ],
+    "tratamientos_involucrados": [
+      "Administración de medicamentos, Extracción de fluidos",
+      "Administración de insulina",
+      "Anemia asociada a enfermedad renal crónica"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "100001701",
+        "nombre": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+        "categoria": "Antiinflamatorios no esteroideos (AINE)",
+        "tratamiento": "Dolor agudo, Inflamación",
+        "precio_unidad": 2000,
+        "precio_caja": 2000
+      },
+      {
+        "codigo": "200012098",
+        "nombre": "JERINGA 3P 5 ML 21X1.1/2 100 UND ETERNA",
+        "categoria": "Dispositivo médico",
+        "tratamiento": "Administración de medicamentos, Extracción de fluidos",
+        "precio_unidad": 500,
+        "precio_caja": 50000
+      },
+      {
+        "codigo": "6545454404",
+        "nombre": "DEXAMETASONA 8MG (FARMIONI)",
+        "categoria": "Corticosteroides sistémicos",
+        "tratamiento": "Inflamación severa, Reacciones alérgicas, Condiciones autoinmunes",
+        "precio_unidad": 3500,
+        "precio_caja": 3500
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 3,
+    "ticket_promedio": 23681,
+    "ticket_suma": 71042,
+    "categorias_involucradas": [
+      "Antiinflamatorios no esteroideos (AINE)",
+      "Dispositivo médico",
+      "Corticosteroides sistémicos"
+    ],
+    "tratamientos_involucrados": [
+      "Dolor agudo, Inflamación",
+      "Administración de medicamentos, Extracción de fluidos",
+      "Inflamación severa, Reacciones alérgicas, Condiciones autoinmunes"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "100019393",
+        "nombre": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+        "categoria": "Analgésicos y Antipiréticos",
+        "tratamiento": "Dolor leve a moderado, Fiebre",
+        "precio_unidad": 144,
+        "precio_caja": 13848
+      },
+      {
+        "codigo": "100024824",
+        "nombre": "ALCOHOL ANTISEP. ALCOPY 700 ML UND",
+        "categoria": "Antisépticos y desinfectantes",
+        "tratamiento": "Desinfección de piel",
+        "precio_unidad": 9600,
+        "precio_caja": 9600
+      },
+      {
+        "codigo": "100028665",
+        "nombre": "DOLEX RAPIDA ACCION AVANZ 500 MG 200 TBS",
+        "categoria": "Analgésicos y Antipiréticos",
+        "tratamiento": "Dolor leve a moderado, Fiebre",
+        "precio_unidad": 850,
+        "precio_caja": 199056
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 3,
+    "ticket_promedio": 19600,
+    "ticket_suma": 58800,
+    "categorias_involucradas": [
+      "Analgésicos y Antipiréticos",
+      "Antisépticos y desinfectantes"
+    ],
+    "tratamientos_involucrados": [
+      "Dolor leve a moderado, Fiebre",
+      "Desinfección de piel"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "100001701",
+        "nombre": "DICLOFENACO 75 MG 5 AMPOLLAS GF",
+        "categoria": "Antiinflamatorios no esteroideos (AINE)",
+        "tratamiento": "Dolor agudo, Inflamación",
+        "precio_unidad": 2000,
+        "precio_caja": 2000
+      },
+      {
+        "codigo": "200045099",
+        "nombre": "JERINGA 3P 5ML 21X1.1/2 FA 100 UND ICOM",
+        "categoria": "Dispositivo médico",
+        "tratamiento": "Administración de medicamentos, Extracción de fluidos",
+        "precio_unidad": 500,
+        "precio_caja": 50000
+      },
+      {
+        "codigo": "6545454404",
+        "nombre": "DEXAMETASONA 8MG (FARMIONI)",
+        "categoria": "Corticosteroides sistémicos",
+        "tratamiento": "Inflamación severa, Reacciones alérgicas, Condiciones autoinmunes",
+        "precio_unidad": 3500,
+        "precio_caja": 3500
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 7,
+    "ticket_promedio": 6672,
+    "ticket_suma": 46702,
+    "categorias_involucradas": [
+      "Antiinflamatorios no esteroideos (AINE)",
+      "Dispositivo médico",
+      "Corticosteroides sistémicos"
+    ],
+    "tratamientos_involucrados": [
+      "Dolor agudo, Inflamación",
+      "Administración de medicamentos, Extracción de fluidos",
+      "Inflamación severa, Reacciones alérgicas, Condiciones autoinmunes"
+    ]
+  },
+  {
+    "productos": [
+      {
+        "codigo": "100014824",
+        "nombre": "AMITRIPTILINA 25 MG 30 TABLETAS RC",
+        "categoria": "Antidepresivo, Neuromodulador",
+        "tratamiento": "Depresión, Dolor neuropático",
+        "precio_unidad": 300,
+        "precio_caja": 7565
+      },
+      {
+        "codigo": "100019393",
+        "nombre": "ACETAMINOFEN 500 MG 100 TBS ICOM",
+        "categoria": "Analgésicos y Antipiréticos",
+        "tratamiento": "Dolor leve a moderado, Fiebre",
+        "precio_unidad": 144,
+        "precio_caja": 13848
+      },
+      {
+        "codigo": "100019403",
+        "nombre": "LOPERAMIDA 2 MG 240 TABLETAS EC",
+        "categoria": "Antidiarreicos",
+        "tratamiento": "Diarrea aguda",
+        "precio_unidad": 900,
+        "precio_caja": 180000
+      }
+    ],
+    "tamano": 3,
+    "apariciones": 3,
+    "ticket_promedio": 15033,
+    "ticket_suma": 45100,
+    "categorias_involucradas": [
+      "Antidepresivo, Neuromodulador",
+      "Analgésicos y Antipiréticos",
+      "Antidiarreicos"
+    ],
+    "tratamientos_involucrados": [
+      "Depresión, Dolor neuropático",
+      "Dolor leve a moderado, Fiebre",
+      "Diarrea aguda"
+    ]
+  }
+]
