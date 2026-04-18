@@ -1,0 +1,58 @@
+{
+  "total_clientes": 957,
+  "por_tipo": {
+    "activo": 520,
+    "churn_cronico": 70,
+    "churn_total": 149,
+    "churn_tratamiento": 43,
+    "churn_riesgo": 74,
+    "downgrade": 101
+  },
+  "por_riesgo": {
+    "bajo": 520,
+    "alto": 219,
+    "medio": 218
+  },
+  "top_tratamientos_abandonados": [
+    {
+      "tratamiento": "Infecciones bacterianas",
+      "clientes": 41
+    },
+    {
+      "tratamiento": "Dolor leve a moderado, Fiebre",
+      "clientes": 28
+    },
+    {
+      "tratamiento": "Síntomas de gripe y resfriado",
+      "clientes": 23
+    },
+    {
+      "tratamiento": "Administración de medicamentos, Extracción de fluidos",
+      "clientes": 17
+    },
+    {
+      "tratamiento": "Dolor, Inflamación, Fiebre",
+      "clientes": 16
+    },
+    {
+      "tratamiento": "Empaque",
+      "clientes": 15
+    },
+    {
+      "tratamiento": "Restauración flora intestinal",
+      "clientes": 9
+    },
+    {
+      "tratamiento": "Alergias, Rinitis alérgica, Picazón",
+      "clientes": 9
+    },
+    {
+      "tratamiento": "Infecciones del tracto urinario (ITU)",
+      "clientes": 9
+    },
+    {
+      "tratamiento": "Dolor moderado a severo",
+      "clientes": 8
+    }
+  ]
+}
